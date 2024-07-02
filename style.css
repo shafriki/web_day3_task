@@ -1,0 +1,15 @@
+*{
+    margin: 10px;
+    padding:10px
+    
+}
+body{
+    background-color: indigo;
+    color: whitesmoke;
+
+}
+.git{
+    border-top: 23px solid red;
+    border-radius: 23px;
+    box-shadow: 5px 5px 11px red;
+}
